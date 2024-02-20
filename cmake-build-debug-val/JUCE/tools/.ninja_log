@@ -1,0 +1,11 @@
+# ninja log v5
+1	49	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/JUCE/tools/CMakeFiles/cmake.verify_globs	ae51c4e6e94727f4
+1	996	1708432091114487998	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.mm.o	93c2f60e280d7e0f
+1	1743	1708432091858823456	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.mm.o	ea80e48427026593
+1	1374	1708432091491740570	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o	e0d927afc542aac5
+1	3182	1708432093294836357	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.mm.o	bc31c8a692c3f9fb
+10430	11055	1708432101176488700	extras/Build/juceaide/juceaide_artefacts/Debug/juceaide	8bb99769dc99caeb
+1	10430	1708432100518231360	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.mm.o	e29ad360ae5d677e
+1	1417	1708432091536786486	extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o	268a4c27cf821399
+1	3388	1708432093500554529	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.mm.o	e3e19dbc8f690c01
+0	50	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/JUCE/tools/CMakeFiles/cmake.verify_globs	ae51c4e6e94727f4
