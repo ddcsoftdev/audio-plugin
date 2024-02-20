@@ -1,0 +1,3 @@
+/tmp/audio-plugin/cmake-build-debug-val/CMakeFiles/audio_plugin.dir
+/tmp/audio-plugin/cmake-build-debug-val/CMakeFiles/edit_cache.dir
+/tmp/audio-plugin/cmake-build-debug-val/CMakeFiles/rebuild_cache.dir
