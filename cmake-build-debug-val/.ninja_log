@@ -1,17 +1,27 @@
 # ninja log v5
-0	54	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/CMakeFiles/cmake.verify_globs	24c9a65786055e5c
-473	500	1708432158539486859	CMakeFiles/MyApp.dir/MainComponent.cpp.o	7c15544e71172c2e
-474	10923	1708432168925382534	CMakeFiles/MyApp.dir/JUCE/modules/juce_gui_basics/juce_gui_basics.mm.o	a4ee9f3e6990167b
-0	473	1708432158513977936	MyApp_artefacts/JuceLibraryCode/MyApp/PkgInfo	cb9350ae42a6a3e
-0	6	1708432158047099616	MyApp_artefacts/Debug/My JUCE Application.app/Contents/Resources/RecentFilesMenuTemplate.nib	74c932bafa6f3b92
-0	473	1708432158513977936	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/MyApp_artefacts/JuceLibraryCode/MyApp/PkgInfo	cb9350ae42a6a3e
-474	3770	1708432161795594662	CMakeFiles/MyApp.dir/JUCE/modules/juce_gui_extra/juce_gui_extra.mm.o	d4724cae27aa954c
-474	1919	1708432159948830961	CMakeFiles/MyApp.dir/JUCE/modules/juce_events/juce_events.mm.o	d2ce4ca83c112f79
-474	1331	1708432159364520840	CMakeFiles/MyApp.dir/JUCE/modules/juce_data_structures/juce_data_structures.mm.o	2af57323cccd2cfc
-474	3325	1708432161351831718	CMakeFiles/MyApp.dir/JUCE/modules/juce_core/juce_core.mm.o	8184e15391f506af
 474	3537	1708432161563892901	CMakeFiles/MyApp.dir/JUCE/modules/juce_graphics/juce_graphics.mm.o	3231ef909260d3c1
-0	50	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/CMakeFiles/cmake.verify_globs	24c9a65786055e5c
-21	41	1708432558869737282	CMakeFiles/MyApp.dir/Main.cpp.o	e842032c2b3bc7c1
-0	53	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/CMakeFiles/cmake.verify_globs	24c9a65786055e5c
-20	42	1708432573558848319	CMakeFiles/MyApp.dir/Main.cpp.o	e842032c2b3bc7c1
-42	825	1708432574333939625	MyApp_artefacts/Debug/My JUCE Application.app/Contents/MacOS/My JUCE Application	84938e917ddd97f9
+474	3325	1708432161351831718	CMakeFiles/MyApp.dir/JUCE/modules/juce_core/juce_core.mm.o	8184e15391f506af
+474	1331	1708432159364520840	CMakeFiles/MyApp.dir/JUCE/modules/juce_data_structures/juce_data_structures.mm.o	2af57323cccd2cfc
+474	1919	1708432159948830961	CMakeFiles/MyApp.dir/JUCE/modules/juce_events/juce_events.mm.o	d2ce4ca83c112f79
+37	571	1708948372030208340	build.ninja	e0434c1312d4f7b6
+474	3770	1708432161795594662	CMakeFiles/MyApp.dir/JUCE/modules/juce_gui_extra/juce_gui_extra.mm.o	d4724cae27aa954c
+0	473	1708432158513977936	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/MyApp_artefacts/JuceLibraryCode/MyApp/PkgInfo	cb9350ae42a6a3e
+0	6	1708432158047099616	MyApp_artefacts/Debug/My JUCE Application.app/Contents/Resources/RecentFilesMenuTemplate.nib	74c932bafa6f3b92
+0	473	1708432158513977936	MyApp_artefacts/JuceLibraryCode/MyApp/PkgInfo	cb9350ae42a6a3e
+1	40	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/CMakeFiles/cmake.verify_globs	24c9a65786055e5c
+17	33	1708948205042495992	CMakeFiles/MyApp.dir/MainComponent.cpp.o	7c15544e71172c2e
+474	10923	1708432168925382534	CMakeFiles/MyApp.dir/JUCE/modules/juce_gui_basics/juce_gui_basics.mm.o	a4ee9f3e6990167b
+1143	1894	1708948332280099181	MyApp_artefacts/Debug/My JUCE Application.app/Contents/MacOS/My JUCE Application	84938e917ddd97f9
+19	1143	1708948331532851852	CMakeFiles/MyApp.dir/Main.cpp.o	e842032c2b3bc7c1
+0	38	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/CMakeFiles/cmake.verify_globs	24c9a65786055e5c
+18	1124	1708948376196912380	CMakeFiles/MyApp.dir/Main.cpp.o	e842032c2b3bc7c1
+1124	1872	1708948376941415372	MyApp_artefacts/Debug/My JUCE Application.app/Contents/MacOS/My JUCE Application	84938e917ddd97f9
+1	41	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/CMakeFiles/cmake.verify_globs	24c9a65786055e5c
+19	1076	1708948397794135816	CMakeFiles/MyApp.dir/Main.cpp.o	e842032c2b3bc7c1
+0	46	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/CMakeFiles/cmake.verify_globs	24c9a65786055e5c
+18	1165	1708948419156136333	CMakeFiles/MyApp.dir/Main.cpp.o	e842032c2b3bc7c1
+1165	1906	1708948419886664258	MyApp_artefacts/Debug/My JUCE Application.app/Contents/MacOS/My JUCE Application	84938e917ddd97f9
+0	38	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/CMakeFiles/cmake.verify_globs	24c9a65786055e5c
+1	40	0	/Users/diegodemarco/Documents/Portfolio/audio-plugin/cmake-build-debug-val/CMakeFiles/cmake.verify_globs	24c9a65786055e5c
+21	1076	1708948679250664298	CMakeFiles/MyApp.dir/Main.cpp.o	e842032c2b3bc7c1
+1076	1826	1708948679997003460	MyApp_artefacts/Debug/My JUCE Application.app/Contents/MacOS/My JUCE Application	84938e917ddd97f9
